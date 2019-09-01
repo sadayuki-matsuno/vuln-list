@@ -1,0 +1,44 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0",
+      "repositories": {
+        "bullseye": "2.0.1+repack-1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "fixed_version": "0",
+      "repositories": {
+        "buster": "2.0.1+repack-1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "fixed_version": "0",
+      "repositories": {
+        "jessie": "1.6.3-4"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "fixed_version": "0",
+      "repositories": {
+        "sid": "2.0.1+repack-1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "fixed_version": "0",
+      "repositories": {
+        "stretch": "1.9.2+repack-1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

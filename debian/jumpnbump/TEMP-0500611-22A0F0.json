@@ -1,0 +1,45 @@
+{
+  "debianbug": 500611,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1.50+dfsg1-1",
+      "repositories": {
+        "bullseye": "1.60-4"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "1.50+dfsg1-1",
+      "repositories": {
+        "buster": "1.60-4"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "fixed_version": "1.50+dfsg1-1",
+      "repositories": {
+        "jessie": "1.51+dfsg1-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "1.50+dfsg1-1",
+      "repositories": {
+        "sid": "1.60-4"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "1.50+dfsg1-1",
+      "repositories": {
+        "stretch": "1.51+dfsg1-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

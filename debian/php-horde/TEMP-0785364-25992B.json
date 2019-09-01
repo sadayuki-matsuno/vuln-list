@@ -1,0 +1,46 @@
+{
+  "debianbug": 785364,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "5.2.5+debian0-1",
+      "repositories": {
+        "bullseye": "5.2.20+debian0-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "5.2.5+debian0-1",
+      "repositories": {
+        "buster": "5.2.20+debian0-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "5.2.1+debian0-2+deb8u1",
+      "repositories": {
+        "jessie": "5.2.1+debian0-2+deb8u3",
+        "jessie-security": "5.2.1+debian0-2+deb8u4"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "5.2.5+debian0-1",
+      "repositories": {
+        "sid": "5.2.20+debian0-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "5.2.5+debian0-1",
+      "repositories": {
+        "stretch": "5.2.13+debian0-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

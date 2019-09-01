@@ -1,0 +1,30 @@
+{
+  "debianbug": 933674,
+  "releases": {
+    "buster": {
+      "nodsa": "Minor issuue; Will be removed in next point release",
+      "nodsa_reason": "",
+      "repositories": {
+        "buster": "0.8.24-7.1"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "repositories": {
+        "jessie": "0.8.24-7"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "nodsa": "Minor issue; Will be removed in enxt point release",
+      "nodsa_reason": "",
+      "repositories": {
+        "stretch": "0.8.24-7"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    }
+  }
+}

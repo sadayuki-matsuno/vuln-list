@@ -1,0 +1,13 @@
+{
+  "debianbug": 495542,
+  "releases": {
+    "jessie": {
+      "fixed_version": "0.72.4-2",
+      "repositories": {
+        "jessie": "0.84.8+dfsg.1-1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

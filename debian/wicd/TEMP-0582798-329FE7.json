@@ -1,0 +1,45 @@
+{
+  "debianbug": 582798,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1.7.0+ds1-3",
+      "repositories": {
+        "bullseye": "1.7.4+tb2-6"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "1.7.0+ds1-3",
+      "repositories": {
+        "buster": "1.7.4+tb2-6"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "fixed_version": "1.7.0+ds1-3",
+      "repositories": {
+        "jessie": "1.7.2.4-4.1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "1.7.0+ds1-3",
+      "repositories": {
+        "sid": "1.7.4+tb2-6"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "1.7.0+ds1-3",
+      "repositories": {
+        "stretch": "1.7.4+tb2-5~deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

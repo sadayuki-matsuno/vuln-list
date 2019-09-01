@@ -1,0 +1,13 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "1.4.11-1",
+      "repositories": {
+        "jessie": "1.4.20-1.1+deb8u1",
+        "jessie-security": "1.4.20-1.1+deb8u2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

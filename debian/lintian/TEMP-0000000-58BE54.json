@@ -1,0 +1,44 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "2.5.2",
+      "repositories": {
+        "bullseye": "2.19.0"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "fixed_version": "2.5.2",
+      "repositories": {
+        "buster": "2.15.0"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "fixed_version": "2.5.2",
+      "repositories": {
+        "jessie": "2.5.30+deb8u4"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "fixed_version": "2.5.2",
+      "repositories": {
+        "sid": "2.19.0"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "fixed_version": "2.5.2",
+      "repositories": {
+        "stretch": "2.5.50.4"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "debianbug": 379922,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0.cvs20060823-8",
+      "repositories": {
+        "bullseye": "7:4.1.4-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "0.cvs20060823-8",
+      "repositories": {
+        "buster": "7:4.1.3-1",
+        "buster-security": "7:4.1.4-1~deb10u1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "0.cvs20060823-8",
+      "repositories": {
+        "sid": "7:4.1.4-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "0.cvs20060823-8",
+      "repositories": {
+        "stretch": "7:3.2.12-1~deb9u1",
+        "stretch-security": "7:3.2.14-1~deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

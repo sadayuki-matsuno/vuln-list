@@ -1,0 +1,13 @@
+{
+  "debianbug": 340079,
+  "releases": {
+    "sid": {
+      "fixed_version": "6b-11",
+      "repositories": {
+        "sid": "1:6b2-3"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

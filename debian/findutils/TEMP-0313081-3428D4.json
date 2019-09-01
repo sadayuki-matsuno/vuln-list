@@ -1,0 +1,45 @@
+{
+  "debianbug": 313081,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "4.2.22-1",
+      "repositories": {
+        "bullseye": "4.6.0+git+20190510-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "4.2.22-1",
+      "repositories": {
+        "buster": "4.6.0+git+20190209-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "4.2.22-1",
+      "repositories": {
+        "jessie": "4.4.2-9"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "4.2.22-1",
+      "repositories": {
+        "sid": "4.6.0+git+20190510-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "4.2.22-1",
+      "repositories": {
+        "stretch": "4.6.0+git+20161106-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

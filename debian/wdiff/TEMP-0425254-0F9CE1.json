@@ -1,0 +1,45 @@
+{
+  "debianbug": 425254,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0.5-18",
+      "repositories": {
+        "bullseye": "1.2.2-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "0.5-18",
+      "repositories": {
+        "buster": "1.2.2-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "fixed_version": "0.5-18",
+      "repositories": {
+        "jessie": "1.2.2-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "0.5-18",
+      "repositories": {
+        "sid": "1.2.2-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "0.5-18",
+      "repositories": {
+        "stretch": "1.2.2-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

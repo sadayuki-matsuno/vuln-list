@@ -1,0 +1,37 @@
+{
+  "debianbug": 775479,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0~git20150129-1",
+      "repositories": {
+        "bullseye": "0~git20190207-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "0~git20150129-1",
+      "repositories": {
+        "buster": "0~git20190207-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "0~git20150129-1",
+      "repositories": {
+        "sid": "0~git20190207-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "0~git20150129-1",
+      "repositories": {
+        "stretch": "0~git20160726-3"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

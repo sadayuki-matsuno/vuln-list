@@ -1,0 +1,46 @@
+{
+  "debianbug": 773308,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "2.1.0-1",
+      "repositories": {
+        "bullseye": "2.1.0+repack1-3"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "2.1.0-1",
+      "repositories": {
+        "buster": "2.1.0+repack1-3"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "jessie": "2.0.22-2"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "2.1.0-1",
+      "repositories": {
+        "sid": "2.1.0+repack1-3"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "2.1.0-1",
+      "repositories": {
+        "stretch": "2.1.0+repack1-2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "6.0.010+dfsg-1",
+      "repositories": {
+        "jessie": "6.0.093+dfsg-1+deb8u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "6.0.010+dfsg-1",
+      "repositories": {
+        "sid": "6.2.26+dfsg-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "6.0.010+dfsg-1",
+      "repositories": {
+        "stretch": "6.2.12+dfsg2-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

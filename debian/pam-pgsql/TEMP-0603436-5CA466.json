@@ -1,0 +1,29 @@
+{
+  "debianbug": 603436,
+  "releases": {
+    "jessie": {
+      "fixed_version": "0.7.1-5",
+      "repositories": {
+        "jessie": "0.7.3.2-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "0.7.1-5",
+      "repositories": {
+        "sid": "0.7.3.2-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "0.7.1-5",
+      "repositories": {
+        "stretch": "0.7.3.2-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

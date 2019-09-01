@@ -1,0 +1,13 @@
+{
+  "debianbug": 902726,
+  "releases": {
+    "sid": {
+      "fixed_version": "10.7.7+dfsg-2",
+      "repositories": {
+        "sid": "11.8.10+dfsg-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

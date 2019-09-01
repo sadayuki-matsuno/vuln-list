@@ -1,0 +1,41 @@
+{
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "1:4.15.2-4"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "repositories": {
+        "buster": "1:4.15.2-4"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "repositories": {
+        "jessie": "1:4.14-2+deb8u1",
+        "jessie-security": "1:4.14-2+deb8u1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "1:4.15.2-4"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "repositories": {
+        "stretch": "1:4.15.2-2+deb9u1",
+        "stretch-security": "1:4.15.2-2+deb9u1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    }
+  }
+}

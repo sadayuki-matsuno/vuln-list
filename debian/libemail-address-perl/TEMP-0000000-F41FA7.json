@@ -1,0 +1,45 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1.908-1",
+      "repositories": {
+        "bullseye": "1.912-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "1.908-1",
+      "repositories": {
+        "buster": "1.912-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "nodsa": "Minor issue vs. usability impact of module",
+      "nodsa_reason": "ignored",
+      "repositories": {
+        "jessie": "1.905-2"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "1.908-1",
+      "repositories": {
+        "sid": "1.912-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "1.908-1",
+      "repositories": {
+        "stretch": "1.908-1+deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

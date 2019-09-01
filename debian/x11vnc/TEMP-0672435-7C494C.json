@@ -1,0 +1,46 @@
+{
+  "debianbug": 672435,
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "0.9.13-6"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "buster": {
+      "nodsa": "Minor issue; workaround exits",
+      "nodsa_reason": "ignored",
+      "repositories": {
+        "buster": "0.9.13-6"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "jessie": {
+      "nodsa": "Minor issue; workaround exits",
+      "nodsa_reason": "ignored",
+      "repositories": {
+        "jessie": "0.9.13-1.2"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "0.9.13-6"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "stretch": {
+      "nodsa": "Minor issue; workaround exits",
+      "nodsa_reason": "ignored",
+      "repositories": {
+        "stretch": "0.9.13-2+deb9u1"
+      },
+      "status": "open",
+      "urgency": "low"
+    }
+  }
+}

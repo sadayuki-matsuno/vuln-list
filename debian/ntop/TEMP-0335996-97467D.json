@@ -1,0 +1,13 @@
+{
+  "debianbug": 335996,
+  "releases": {
+    "jessie": {
+      "fixed_version": "3:4.0.3+dfsg1-1",
+      "repositories": {
+        "jessie": "3:5.0.1+dfsg1-2.1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

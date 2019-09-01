@@ -1,0 +1,13 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "1.10.3-1",
+      "repositories": {
+        "jessie": "1.12.9+dfsg-2+deb8u6",
+        "jessie-security": "1.12.9+dfsg-2+deb8u7"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

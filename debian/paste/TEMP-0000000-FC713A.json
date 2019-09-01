@@ -1,0 +1,44 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1.0.1-1",
+      "repositories": {
+        "bullseye": "3.1.0+dfsg1-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "1.0.1-1",
+      "repositories": {
+        "buster": "3.0.6+dfsg-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "1.0.1-1",
+      "repositories": {
+        "jessie": "1.7.5.1-6"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "1.0.1-1",
+      "repositories": {
+        "sid": "3.1.0+dfsg1-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "1.0.1-1",
+      "repositories": {
+        "stretch": "2.0.3+dfsg-4"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

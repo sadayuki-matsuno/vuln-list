@@ -1,0 +1,36 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0",
+      "repositories": {
+        "bullseye": "0.17-36.1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "fixed_version": "0",
+      "repositories": {
+        "jessie": "0.17-34"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "fixed_version": "0",
+      "repositories": {
+        "sid": "0.17-36.2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "fixed_version": "0",
+      "repositories": {
+        "stretch": "0.17-36"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

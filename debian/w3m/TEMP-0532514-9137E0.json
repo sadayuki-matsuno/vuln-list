@@ -1,0 +1,40 @@
+{
+  "debianbug": 520324,
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "0.5.3-37"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "repositories": {
+        "buster": "0.5.3-37"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "repositories": {
+        "jessie": "0.5.3-19+deb8u2"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "0.5.3-37"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "repositories": {
+        "stretch": "0.5.3-34+deb9u1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    }
+  }
+}

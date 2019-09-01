@@ -1,0 +1,29 @@
+{
+  "debianbug": 504726,
+  "releases": {
+    "buster": {
+      "fixed_version": "0.8.1-1.2",
+      "repositories": {
+        "buster": "1.2.0-1.1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "fixed_version": "0.8.1-1.2",
+      "repositories": {
+        "jessie": "1.2.0-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "0.8.1-1.2",
+      "repositories": {
+        "stretch": "1.2.0-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

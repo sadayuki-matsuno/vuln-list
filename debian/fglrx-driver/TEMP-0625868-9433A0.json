@@ -1,0 +1,13 @@
+{
+  "debianbug": 625868,
+  "releases": {
+    "jessie": {
+      "fixed_version": "1:11-6-3",
+      "repositories": {
+        "jessie": "1:15.9-4~deb8u2"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

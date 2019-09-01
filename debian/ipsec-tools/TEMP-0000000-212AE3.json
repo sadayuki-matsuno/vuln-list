@@ -1,0 +1,21 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "1:0.5.2-1",
+      "repositories": {
+        "jessie": "1:0.8.2+20140711-2+deb8u1",
+        "jessie-security": "1:0.8.2+20140711-2+deb8u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "1:0.5.2-1",
+      "repositories": {
+        "stretch": "1:0.8.2+20140711-8+deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

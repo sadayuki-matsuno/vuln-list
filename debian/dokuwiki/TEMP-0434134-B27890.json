@@ -1,0 +1,38 @@
+{
+  "debianbug": 434134,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0.0.20070626b-1",
+      "repositories": {
+        "bullseye": "0.0.20180422.a-2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "fixed_version": "0.0.20070626b-1",
+      "repositories": {
+        "buster": "0.0.20180422.a-2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "fixed_version": "0.0.20070626b-1",
+      "repositories": {
+        "jessie": "0.0.20140505.a+dfsg-4",
+        "jessie-security": "0.0.20140505.a+dfsg-4+deb8u1"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "fixed_version": "0.0.20070626b-1",
+      "repositories": {
+        "sid": "0.0.20180422.a-2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

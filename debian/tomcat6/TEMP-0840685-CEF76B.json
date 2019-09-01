@@ -1,0 +1,14 @@
+{
+  "debianbug": 840685,
+  "releases": {
+    "jessie": {
+      "fixed_version": "6.0.41-3",
+      "repositories": {
+        "jessie": "6.0.45+dfsg-1~deb8u1",
+        "jessie-security": "6.0.45+dfsg-1~deb8u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

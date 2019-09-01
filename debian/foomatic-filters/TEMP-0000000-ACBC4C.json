@@ -1,0 +1,42 @@
+{
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "4.0.17-11"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "repositories": {
+        "buster": "4.0.17-11"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "jessie": "4.0.17-5+deb8u1",
+        "jessie-security": "4.0.17-5+deb8u1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "4.0.17-11"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "repositories": {
+        "stretch": "4.0.17-9"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    }
+  }
+}

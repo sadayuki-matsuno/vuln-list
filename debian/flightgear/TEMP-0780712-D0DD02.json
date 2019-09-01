@@ -1,0 +1,38 @@
+{
+  "debianbug": 780712,
+  "releases": {
+    "buster": {
+      "fixed_version": "3.0.0-5",
+      "repositories": {
+        "buster": "1:2018.3.2+dfsg-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "3.0.0-5",
+      "repositories": {
+        "jessie": "3.0.0-5+deb8u3",
+        "jessie-security": "3.0.0-5+deb8u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "3.0.0-5",
+      "repositories": {
+        "sid": "1:2019.1.1+dfsg-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "3.0.0-5",
+      "repositories": {
+        "stretch": "1:2016.4.4+dfsg-3+deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

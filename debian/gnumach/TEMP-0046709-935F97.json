@@ -1,0 +1,45 @@
+{
+  "debianbug": 46709,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1:20050801-3",
+      "repositories": {
+        "bullseye": "2:1.8+git20190109-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "1:20050801-3",
+      "repositories": {
+        "buster": "2:1.8+git20190109-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "1:20050801-3",
+      "repositories": {
+        "jessie": "2:1.4-12"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "1:20050801-3",
+      "repositories": {
+        "sid": "2:1.8+git20190109-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "1:20050801-3",
+      "repositories": {
+        "stretch": "2:1.8+git20170102-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

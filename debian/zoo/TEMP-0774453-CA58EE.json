@@ -1,0 +1,23 @@
+{
+  "debianbug": 774453,
+  "releases": {
+    "jessie": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "jessie": "2.10-27"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "stretch": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "stretch": "2.10-28"
+      },
+      "status": "open",
+      "urgency": "low"
+    }
+  }
+}

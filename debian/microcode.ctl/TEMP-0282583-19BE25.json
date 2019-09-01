@@ -1,0 +1,45 @@
+{
+  "debianbug": 282583,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0.20080131-1",
+      "repositories": {
+        "bullseye": "1.18~0+nmu2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "fixed_version": "0.20080131-1",
+      "repositories": {
+        "buster": "1.18~0+nmu2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "fixed_version": "0.20080131-1",
+      "repositories": {
+        "jessie": "1.18~0+nmu2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "fixed_version": "0.20080131-1",
+      "repositories": {
+        "sid": "1.18~0+nmu2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "fixed_version": "0.20080131-1",
+      "repositories": {
+        "stretch": "1.18~0+nmu2"
+      },
+      "status": "resolved",
+      "urgency": "unimportant"
+    }
+  }
+}

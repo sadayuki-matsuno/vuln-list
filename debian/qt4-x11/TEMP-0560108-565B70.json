@@ -1,0 +1,41 @@
+{
+  "debianbug": 560108,
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "4:4.8.7+dfsg-19"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "repositories": {
+        "buster": "4:4.8.7+dfsg-18"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "repositories": {
+        "jessie": "4:4.8.6+git64-g5dc8b2b+dfsg-3+deb8u1",
+        "jessie-security": "4:4.8.6+git64-g5dc8b2b+dfsg-3+deb8u2"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "4:4.8.7+dfsg-19"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "repositories": {
+        "stretch": "4:4.8.7+dfsg-11"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "debianbug": 800564,
+  "releases": {
+    "jessie": {
+      "nodsa": "Too intrusive to backport",
+      "nodsa_reason": "ignored",
+      "repositories": {
+        "jessie": "5.6.33+dfsg-0+deb8u1",
+        "jessie-security": "5.6.40+dfsg-0+deb8u5"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    }
+  }
+}

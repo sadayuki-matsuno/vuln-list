@@ -1,0 +1,45 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "0.8.8e+ds1-1",
+      "repositories": {
+        "bullseye": "1.2.4+ds1-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "0.8.8e+ds1-1",
+      "repositories": {
+        "buster": "1.2.2+ds1-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "0.8.8b+dfsg-8+deb8u2",
+      "repositories": {
+        "jessie": "0.8.8b+dfsg-8+deb8u6",
+        "jessie-security": "0.8.8b+dfsg-8+deb8u7"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "0.8.8e+ds1-1",
+      "repositories": {
+        "sid": "1.2.4+ds1-2"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "0.8.8e+ds1-1",
+      "repositories": {
+        "stretch": "0.8.8h+ds1-10"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

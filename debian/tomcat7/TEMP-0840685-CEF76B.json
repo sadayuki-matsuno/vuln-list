@@ -1,0 +1,22 @@
+{
+  "debianbug": 840685,
+  "releases": {
+    "jessie": {
+      "fixed_version": "7.0.56-3+deb8u5",
+      "repositories": {
+        "jessie": "7.0.56-3+deb8u11",
+        "jessie-security": "7.0.56-3+really7.0.94-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "7.0.72-3",
+      "repositories": {
+        "stretch": "7.0.75-1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "debianbug": 797470,
+  "releases": {
+    "jessie": {
+      "nodsa": "Should possibly be removed in a stable-proposed-update from Jessie",
+      "nodsa_reason": "",
+      "repositories": {
+        "jessie": "2.0-1.1"
+      },
+      "status": "open",
+      "urgency": "not yet assigned"
+    }
+  }
+}

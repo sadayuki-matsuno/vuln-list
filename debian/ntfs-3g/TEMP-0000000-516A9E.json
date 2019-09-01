@@ -1,0 +1,46 @@
+{
+  "releases": {
+    "bullseye": {
+      "fixed_version": "1:1.516-1",
+      "repositories": {
+        "bullseye": "1:2017.3.23AR.3-3"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "buster": {
+      "fixed_version": "1:1.516-1",
+      "repositories": {
+        "buster": "1:2017.3.23AR.3-3"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "jessie": {
+      "fixed_version": "1:1.516-1",
+      "repositories": {
+        "jessie": "1:2014.2.15AR.2-1+deb8u3",
+        "jessie-security": "1:2014.2.15AR.2-1+deb8u4"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "sid": {
+      "fixed_version": "1:1.516-1",
+      "repositories": {
+        "sid": "1:2017.3.23AR.3-3"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    },
+    "stretch": {
+      "fixed_version": "1:1.516-1",
+      "repositories": {
+        "stretch": "1:2016.2.22AR.1+dfsg-1+deb9u1",
+        "stretch-security": "1:2016.2.22AR.1+dfsg-1+deb9u1"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "debianbug": 418662,
+  "releases": {
+    "jessie": {
+      "fixed_version": "3.0b2-5",
+      "repositories": {
+        "jessie": "3.0.0-7"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "fixed_version": "3.0b2-5",
+      "repositories": {
+        "stretch": "3.0.0-8.1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

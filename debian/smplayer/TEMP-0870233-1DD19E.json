@@ -1,0 +1,47 @@
+{
+  "debianbug": 870233,
+  "releases": {
+    "bullseye": {
+      "fixed_version": "17.7.0~ds0-1",
+      "repositories": {
+        "bullseye": "18.10.0~ds0-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "buster": {
+      "fixed_version": "17.7.0~ds0-1",
+      "repositories": {
+        "buster": "18.10.0~ds0-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "jessie": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "jessie": "14.9.0~ds0-1"
+      },
+      "status": "open",
+      "urgency": "low"
+    },
+    "sid": {
+      "fixed_version": "17.7.0~ds0-1",
+      "repositories": {
+        "sid": "18.10.0~ds0-1"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    },
+    "stretch": {
+      "nodsa": "Minor issue",
+      "nodsa_reason": "",
+      "repositories": {
+        "stretch": "16.11.0~ds0-1+deb9u1"
+      },
+      "status": "open",
+      "urgency": "low"
+    }
+  }
+}

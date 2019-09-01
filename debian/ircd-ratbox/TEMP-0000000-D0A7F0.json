@@ -1,0 +1,12 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "3.0.6.dfsg-2",
+      "repositories": {
+        "jessie": "3.0.8.dfsg-3"
+      },
+      "status": "resolved",
+      "urgency": "not yet assigned"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "releases": {
+    "jessie": {
+      "fixed_version": "3.5.3-1",
+      "repositories": {
+        "jessie": "3.6-rzb2752+dfsg-5"
+      },
+      "status": "resolved",
+      "urgency": "low"
+    }
+  }
+}

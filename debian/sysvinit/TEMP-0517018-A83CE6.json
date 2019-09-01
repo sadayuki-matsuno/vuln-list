@@ -1,0 +1,40 @@
+{
+  "debianbug": 517018,
+  "releases": {
+    "bullseye": {
+      "repositories": {
+        "bullseye": "2.96~beta-1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "buster": {
+      "repositories": {
+        "buster": "2.93-8"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "jessie": {
+      "repositories": {
+        "jessie": "2.88dsf-59"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "sid": {
+      "repositories": {
+        "sid": "2.96~beta-1"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    },
+    "stretch": {
+      "repositories": {
+        "stretch": "2.88dsf-59.9"
+      },
+      "status": "open",
+      "urgency": "unimportant"
+    }
+  }
+}
